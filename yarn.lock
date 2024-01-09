@@ -2328,113 +2328,113 @@
     read-package-json-fast "^3.0.0"
     which "^4.0.0"
 
-"@nrwl/angular@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nrwl/angular/-/angular-17.3.0-canary.20240109-2360918.tgz#ffc7dd8e18560f251f7bb31a4f283aa98a50d81f"
-  integrity sha512-idaP+asgz90dvD9sro0s7NNUdWlpUmChG3QCwpPXFaML3OC3kmZzi0dJXDoIKH0E4mxFcqvQS5txF28m1bnPrw==
+"@nrwl/angular@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nrwl%2fangular/-/angular-18.0.0-katrin.0.tgz#b4c339e01a717bcb2a257760bf9741d2ba3357ab"
+  integrity sha512-a6rG0GJEYxusP0eAa+Zk70EP2qoldQCYO32mDnVHy0rLvxYUoUyWjkR9UoiZDRO525TeBeKApcAfTMtK5ZY2zQ==
   dependencies:
-    "@nx/angular" "17.3.0-canary.20240109-2360918"
+    "@nx/angular" "18.0.0-katrin.0"
     tslib "^2.3.0"
 
-"@nrwl/cypress@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nrwl/cypress/-/cypress-17.3.0-canary.20240109-2360918.tgz#57993af0d64fbafbb991c452d7959f59e8e85420"
-  integrity sha512-GhJOw9zwYDUepY7kAFDvqFaRK24CfLNV+j4vxUp0/plyRafixJmY/jsx4A7rghN0Fq7Mk7vicxMFdkjZ8PSTZw==
+"@nrwl/cypress@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nrwl%2fcypress/-/cypress-18.0.0-katrin.0.tgz#07edd6bd3a7b0f76098ca3b02be62a84561f3918"
+  integrity sha512-i5jBZA3edjc14uR6OtIGYTGMgMK8DGLrah8RycE8cHu+qDaMLTq6HAs1/gX2eEIgOpRallUW9dxefbAWLL+kFg==
   dependencies:
-    "@nx/cypress" "17.3.0-canary.20240109-2360918"
+    "@nx/cypress" "18.0.0-katrin.0"
 
-"@nrwl/devkit@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nrwl/devkit/-/devkit-17.3.0-canary.20240109-2360918.tgz#b0320bece41ea9c3c1122afd4e4fba08fbf056ec"
-  integrity sha512-as3s9as+G0WZTySdc34TWv0KZdLiAwojIz3k6sdMuhMN+pz9pMxLa6MA3OSkV9Ot0U8QqaoAx4Ch1HJHivGR4Q==
+"@nrwl/devkit@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nrwl%2fdevkit/-/devkit-18.0.0-katrin.0.tgz#433e516a461c7b59601744da612a38e30a6c07e6"
+  integrity sha512-WyA17GKGN04iFSIt+UK4U6/9Mt6HTYDNUpUNvNUij14dzudRxRs7gSi5iPJiZO7e2VXDlcyReD7KydDQO81ssQ==
   dependencies:
-    "@nx/devkit" "17.3.0-canary.20240109-2360918"
+    "@nx/devkit" "18.0.0-katrin.0"
 
-"@nrwl/eslint-plugin-nx@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nrwl/eslint-plugin-nx/-/eslint-plugin-nx-17.3.0-canary.20240109-2360918.tgz#af82b1944b3bc60fb2e9d2bae759166933681150"
-  integrity sha512-fBQFg8SyDvYipPu02myZ7w71j+Y+TkK0J59CoBY/8+J/ZPsn7+12FFFgTbxmGRvl2AaLjWAaFHAmXlaBrXac4g==
+"@nrwl/eslint-plugin-nx@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nrwl%2feslint-plugin-nx/-/eslint-plugin-nx-18.0.0-katrin.0.tgz#7b17a4d4bb68d02ac5b850ff942408c1b6b20e39"
+  integrity sha512-wkV+NOIr70r5XGGYZursrQVE91SBbLhyFad22nmyX6D/Jg7FCX1qNiYJl2WFX2x4b5kPxDa7Sj0wOwGHfttukQ==
   dependencies:
-    "@nx/eslint-plugin" "17.3.0-canary.20240109-2360918"
+    "@nx/eslint-plugin" "18.0.0-katrin.0"
 
-"@nrwl/jest@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nrwl/jest/-/jest-17.3.0-canary.20240109-2360918.tgz#67c2063d15e48e8071507a4e87c62095769670d4"
-  integrity sha512-WOl+NjIOG/LnZkskB/BgjyFuakXRjUjO5CzbSybbnP1mgRi9FU6yNr7SIi/tU4IdzHIg5wSqfkC5R70ERBArAA==
+"@nrwl/jest@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nrwl%2fjest/-/jest-18.0.0-katrin.0.tgz#8a181b3a6e7adcbd096688bedf72e2a8492139a8"
+  integrity sha512-HsCKP/K87NiXkYSIC3WJhE8T/HBeZBPsvyW3mEi2aAW0BM7bYYnsR6wgYrsk7Hr59XyHo0Su2nHwyehGa2yJEA==
   dependencies:
-    "@nx/jest" "17.3.0-canary.20240109-2360918"
+    "@nx/jest" "18.0.0-katrin.0"
 
-"@nrwl/js@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nrwl/js/-/js-17.3.0-canary.20240109-2360918.tgz#b6a13f9f54c39684049444f9b468107e2025c276"
-  integrity sha512-1Kxb7UCrVuiRq+wA49dzP71CQr0nN92ndPVDxX+oN+0yJ4In7UVOHjHcPHdf5BsJvcvyMx9J+I2Fhp5p4BcxVQ==
+"@nrwl/js@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nrwl%2fjs/-/js-18.0.0-katrin.0.tgz#833ec34996f4106e1fed0615533aa700256b19f3"
+  integrity sha512-eH+eLnVXmGSqfKrsJ4sEIqptZry+sFYVCbFT2isZvDbvpdbYftoyVwoa7II3iFi8pqQLDbkAUtn+sigKdUWYoA==
   dependencies:
-    "@nx/js" "17.3.0-canary.20240109-2360918"
+    "@nx/js" "18.0.0-katrin.0"
 
-"@nrwl/react@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nrwl/react/-/react-17.3.0-canary.20240109-2360918.tgz#f510dd384701324b3337ec955f68fcdf561424fa"
-  integrity sha512-TcLEFxg73mHhlYpQYT6zeW8yaa2Oio9aikeiN8COkdX04mjdNKKCmWyX1DhClGYodZf66Z13MU4slWbu9l7dxw==
+"@nrwl/react@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nrwl%2freact/-/react-18.0.0-katrin.0.tgz#44b0ad067e6704481b96cb8364c2289b948463e0"
+  integrity sha512-OlxGDKTFFb4rQu61MDgGXGx7RDg+J+KeAWGXV2hENQIb++dgrnMVAV04oL23AWqevl+zt0YGrP5GlxEykesyUw==
   dependencies:
-    "@nx/react" "17.3.0-canary.20240109-2360918"
+    "@nx/react" "18.0.0-katrin.0"
 
-"@nrwl/storybook@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nrwl/storybook/-/storybook-17.3.0-canary.20240109-2360918.tgz#343e377cf82ba395eae28609a48abe4cf8b3f7f9"
-  integrity sha512-yG54YTZ97/u7IpFoo5Z7APTBojRweG8Pgq723UDTlb9oFmsZNtxpr/WJBTCaisXTSv7FJWBe00Lh0XPTla7rCg==
+"@nrwl/storybook@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nrwl%2fstorybook/-/storybook-18.0.0-katrin.0.tgz#f29c2ddd65b184e88a327887baed894c9b7ffe74"
+  integrity sha512-OTUDrBAyc1huYB9CoKJpYZcLzZm1jgKNpt78/v7p7CXXh1mU2Ftmdw98XlbjCbO9LzxbqmNCHNqBPbMqiaCSIA==
   dependencies:
-    "@nx/storybook" "17.3.0-canary.20240109-2360918"
+    "@nx/storybook" "18.0.0-katrin.0"
 
-"@nrwl/tao@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nrwl/tao/-/tao-17.3.0-canary.20240109-2360918.tgz#3baacd6fa78c5485cd8723673f9b100a05765224"
-  integrity sha512-lSP+e8JAwIUvXkdEMehGXzYgEAbdsJT6NtRV6r3F72xUqcYeI69ZmH4BiVkaE1gQqm2KATCwo7USiSv0NKHddA==
+"@nrwl/tao@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nrwl%2ftao/-/tao-18.0.0-katrin.0.tgz#65b87ca2360c6d80b109d3f53fe63d7872f91b5d"
+  integrity sha512-F92C0DuBNuQsnUjLHT7qX+Sg6groGKlWVgwGXnCgBEOEqJ1runYerdZMglKUUFCYbqokqaEx5GCHFUKOmx1DKQ==
   dependencies:
-    nx "17.3.0-canary.20240109-2360918"
+    nx "18.0.0-katrin.0"
     tslib "^2.3.0"
 
-"@nrwl/vite@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nrwl/vite/-/vite-17.3.0-canary.20240109-2360918.tgz#51b82c279dbc56569c303be68eeb0d54989b506e"
-  integrity sha512-i8B2sywQb0O4XZhqpxPqbf8I8J+LdYejhsMm4wWAIYrI8D+x8OPcYTvwbnOl491QXutc4kGDQvVGKDvFEI3ncg==
+"@nrwl/vite@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nrwl%2fvite/-/vite-18.0.0-katrin.0.tgz#591f73d503525b742f54e271c0cdd236be360fac"
+  integrity sha512-19ReuiM4+meJqjEWlbO0txR/j3PJXnk0h5eOm1jYbfo9WSHfZwbRAD907RLpzbxrXxnyWL+SEIMi8h3VjQCygQ==
   dependencies:
-    "@nx/vite" "17.3.0-canary.20240109-2360918"
+    "@nx/vite" "18.0.0-katrin.0"
 
-"@nrwl/web@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nrwl/web/-/web-17.3.0-canary.20240109-2360918.tgz#0abb247ccd3f22a6ec7b624a186647612949cedd"
-  integrity sha512-W3laAYp4Db/VkZcEbN0t286khgmsKYACfVgitW5vb8ZFtbuBUihiuSgFL25NsTEFhVY3B7tmOgAtUAJM5ejBIA==
+"@nrwl/web@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nrwl%2fweb/-/web-18.0.0-katrin.0.tgz#82915903f35af8e16ac310686b18a5c2d9df5f6f"
+  integrity sha512-ZtPePE6uwZto9w4Ki9MTWBay0R0RAic0nAM+kfxAz70JqFrHscG0eExm95PHLlyOwgKhW4r2VRDfszw+cbOXnw==
   dependencies:
-    "@nx/web" "17.3.0-canary.20240109-2360918"
+    "@nx/web" "18.0.0-katrin.0"
 
-"@nrwl/webpack@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nrwl/webpack/-/webpack-17.3.0-canary.20240109-2360918.tgz#e964fb627c7e6ed153b60ba9cd8c622c966b971f"
-  integrity sha512-c+R8qalB9pSysHamhootH9jpKaglVoMPINxJfc4dvsjVSa6Hsp0MXMNeNQoDuterPw/ThyiR9uzNJDSTk2LADA==
+"@nrwl/webpack@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nrwl%2fwebpack/-/webpack-18.0.0-katrin.0.tgz#f0ffcab79cb25903198ad811d9476700a4302644"
+  integrity sha512-i9r/OHmpULqXwVuvOny5v43/Qpie27SJr5E8mUtGLndnhX1Q1uqE1gFssG2LTEsG72VukT1VkKEU7fVfq9pqWA==
   dependencies:
-    "@nx/webpack" "17.3.0-canary.20240109-2360918"
+    "@nx/webpack" "18.0.0-katrin.0"
 
-"@nrwl/workspace@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nrwl/workspace/-/workspace-17.3.0-canary.20240109-2360918.tgz#51d9aef68b4b184bbb4019765f1b0100c41361b6"
-  integrity sha512-ks9KlG28qth1+I87iFAJq4Lqdt19Lmocs6gjMV1vP4KAsoBEXZlSucLivd3M+PxgOjHJrl1w1WWbQD85hP6XbQ==
+"@nrwl/workspace@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nrwl%2fworkspace/-/workspace-18.0.0-katrin.0.tgz#cbca86dfa44b1f1faf7f723a64aab0f12a30a207"
+  integrity sha512-PwAwUzEJsOnb1QywPMwRUyISJGJn+6Cxhlk+a9vwin9pmKX7QblLEyF1GIlN9tZcer3qFnByYfxTITDLKiEkAA==
   dependencies:
-    "@nx/workspace" "17.3.0-canary.20240109-2360918"
+    "@nx/workspace" "18.0.0-katrin.0"
 
-"@nx/angular@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/angular/-/angular-17.3.0-canary.20240109-2360918.tgz#89904c72091411a85b6f5eed01faaa35cf828631"
-  integrity sha512-i/JmDxCtuCht16rg/wa4M5jthmVRPupv1a7OmqstX3GH/u3eMc5BQqYo9l/42tSul2xxFHYT01ayFeopJwokaA==
+"@nx/angular@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fangular/-/angular-18.0.0-katrin.0.tgz#e679faca3c058dd252b43a5eedeb1185c4fbcba0"
+  integrity sha512-fdtXAfPzfamm1ewpp5WGlt5OV9HFVAygsSznr+wJwKttnrszLndjfNqxPsYX5U6JijFAVsbpglv/J55303S2Gw==
   dependencies:
-    "@nrwl/angular" "17.3.0-canary.20240109-2360918"
-    "@nx/cypress" "17.3.0-canary.20240109-2360918"
-    "@nx/devkit" "17.3.0-canary.20240109-2360918"
-    "@nx/eslint" "17.3.0-canary.20240109-2360918"
-    "@nx/jest" "17.3.0-canary.20240109-2360918"
-    "@nx/js" "17.3.0-canary.20240109-2360918"
-    "@nx/web" "17.3.0-canary.20240109-2360918"
-    "@nx/webpack" "17.3.0-canary.20240109-2360918"
-    "@nx/workspace" "17.3.0-canary.20240109-2360918"
+    "@nrwl/angular" "18.0.0-katrin.0"
+    "@nx/cypress" "18.0.0-katrin.0"
+    "@nx/devkit" "18.0.0-katrin.0"
+    "@nx/eslint" "18.0.0-katrin.0"
+    "@nx/jest" "18.0.0-katrin.0"
+    "@nx/js" "18.0.0-katrin.0"
+    "@nx/web" "18.0.0-katrin.0"
+    "@nx/webpack" "18.0.0-katrin.0"
+    "@nx/workspace" "18.0.0-katrin.0"
     "@phenomnomnominal/tsquery" "~5.0.1"
     "@typescript-eslint/type-utils" "^6.9.1"
     chalk "^4.1.0"
@@ -2447,26 +2447,26 @@
     webpack "^5.80.0"
     webpack-merge "^5.8.0"
 
-"@nx/cypress@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/cypress/-/cypress-17.3.0-canary.20240109-2360918.tgz#c41c0c56f634b76acfc0dad2344de1bde109e3bc"
-  integrity sha512-DeMTZCvQZ81A4DnsSR2nzR0fIr8ol+HmZSP8KkK1hhmme7knK8jk4WQ8V8ttQ9c3DUj8gwMMtr4QrmjHz29Q0Q==
+"@nx/cypress@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fcypress/-/cypress-18.0.0-katrin.0.tgz#0c79a3f37b5eb8e26d206fcaac85a7fda9607187"
+  integrity sha512-P2KFkO5OPB7i9019PuWv4jr8DTTHPPeC7az/4SXy9u8vhuSxsSJW9QrVMrvXTrXz7Wwqlzzy78Ms0XY5FCtUZw==
   dependencies:
-    "@nrwl/cypress" "17.3.0-canary.20240109-2360918"
-    "@nx/devkit" "17.3.0-canary.20240109-2360918"
-    "@nx/eslint" "17.3.0-canary.20240109-2360918"
-    "@nx/js" "17.3.0-canary.20240109-2360918"
+    "@nrwl/cypress" "18.0.0-katrin.0"
+    "@nx/devkit" "18.0.0-katrin.0"
+    "@nx/eslint" "18.0.0-katrin.0"
+    "@nx/js" "18.0.0-katrin.0"
     "@phenomnomnominal/tsquery" "~5.0.1"
     detect-port "^1.5.1"
     semver "7.5.3"
     tslib "^2.3.0"
 
-"@nx/devkit@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/devkit/-/devkit-17.3.0-canary.20240109-2360918.tgz#4620d6b688b8ea4273c416803b639e88babb604f"
-  integrity sha512-HVOKkHdKnFz8NuRmybsvsZoByIXd4COvInmyH7gHBPWmqaFgOXGmLFvnZRgUqmyfamvvxr41ONeUAMop32lcpg==
+"@nx/devkit@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fdevkit/-/devkit-18.0.0-katrin.0.tgz#a9f501166c1f9d4a479d804e16bd51f93fac7bc1"
+  integrity sha512-n/xXOVgnGiCI7zXc0kjVIt7N5HXlDoY9LI95L7xTNg/egGL9EAIO0HpoftZZ55A2rL/7aOHPCqD6mWoGn0Irew==
   dependencies:
-    "@nrwl/devkit" "17.3.0-canary.20240109-2360918"
+    "@nrwl/devkit" "18.0.0-katrin.0"
     ejs "^3.1.7"
     enquirer "~2.3.6"
     ignore "^5.0.4"
@@ -2474,14 +2474,14 @@
     tmp "~0.2.1"
     tslib "^2.3.0"
 
-"@nx/eslint-plugin@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/eslint-plugin/-/eslint-plugin-17.3.0-canary.20240109-2360918.tgz#f5f3720a13159fab016cb060590d62bde84477e3"
-  integrity sha512-ocy/DIPk2+RjWuJW9Ku4y6l+ZMDv5VSblPwlYeqI31T+Bkq/xVQ3D+kShAYPY2TlwoDug3D8ZiLw4VsZWItz/w==
+"@nx/eslint-plugin@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2feslint-plugin/-/eslint-plugin-18.0.0-katrin.0.tgz#12d39e2a3e7385a2f84611b3c6fdb2d9a0189ba3"
+  integrity sha512-oQ/xgyx0Xl3Ewx2PAxyy51DVLLnPSLwhjhpyJ3nyJsgklin8Fkjuy72OZc4VKjlVwQGP0u/5aK9nQ/M26t9QSA==
   dependencies:
-    "@nrwl/eslint-plugin-nx" "17.3.0-canary.20240109-2360918"
-    "@nx/devkit" "17.3.0-canary.20240109-2360918"
-    "@nx/js" "17.3.0-canary.20240109-2360918"
+    "@nrwl/eslint-plugin-nx" "18.0.0-katrin.0"
+    "@nx/devkit" "18.0.0-katrin.0"
+    "@nx/js" "18.0.0-katrin.0"
     "@typescript-eslint/type-utils" "^6.13.2"
     "@typescript-eslint/utils" "^6.13.2"
     chalk "^4.1.0"
@@ -2490,27 +2490,27 @@
     semver "7.5.3"
     tslib "^2.3.0"
 
-"@nx/eslint@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/eslint/-/eslint-17.3.0-canary.20240109-2360918.tgz#a3595bfb80468ca18164bd99e7234186f0e666a3"
-  integrity sha512-hCnQGDSCVS6EN8JilJ4cTsAO/rcNiPugdmRqWzpSNhZJ+fPRAG7O1lY6oSkTC4Y81RbooqVzrPR3C+Pa3FOT0Q==
+"@nx/eslint@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2feslint/-/eslint-18.0.0-katrin.0.tgz#b988231e46326af4f8acfe72387d62b0444b576a"
+  integrity sha512-XHnZg3UH32kxYKdUD/K+LMXZ9x8z7PcRA9gSTOIpzP37uttNAW/mfBluxhZ3Gdnj65vh5Z2tbbKRb5YGEh60wA==
   dependencies:
-    "@nx/devkit" "17.3.0-canary.20240109-2360918"
-    "@nx/js" "17.3.0-canary.20240109-2360918"
-    "@nx/linter" "17.3.0-canary.20240109-2360918"
+    "@nx/devkit" "18.0.0-katrin.0"
+    "@nx/js" "18.0.0-katrin.0"
+    "@nx/linter" "18.0.0-katrin.0"
     tslib "^2.3.0"
     typescript "~5.2.2"
 
-"@nx/jest@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/jest/-/jest-17.3.0-canary.20240109-2360918.tgz#86b9d969837c11a0944c49c9e6e081f91a3a838b"
-  integrity sha512-YhEg72qe+AF1t7QaV6SNI9Yhsd7pZFabpddZs5J2w1LnTVdzeaZngfDM2p+CMzjkDmY/r7B6/Qbo3lJT+kgYvw==
+"@nx/jest@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fjest/-/jest-18.0.0-katrin.0.tgz#8eb9fe64043f0db3e6dba44a5a45e475fdabe539"
+  integrity sha512-wSmTkKYMrIbMWQt63WYxYpS75RW3+geHnbPVJyqy2wGOwb3jopqLVS0GiVzQePiRJtTniGpXPXWBZUzsxlqmIw==
   dependencies:
     "@jest/reporters" "^29.4.1"
     "@jest/test-result" "^29.4.1"
-    "@nrwl/jest" "17.3.0-canary.20240109-2360918"
-    "@nx/devkit" "17.3.0-canary.20240109-2360918"
-    "@nx/js" "17.3.0-canary.20240109-2360918"
+    "@nrwl/jest" "18.0.0-katrin.0"
+    "@nx/devkit" "18.0.0-katrin.0"
+    "@nx/js" "18.0.0-katrin.0"
     "@phenomnomnominal/tsquery" "~5.0.1"
     chalk "^4.1.0"
     identity-obj-proxy "3.0.0"
@@ -2520,10 +2520,10 @@
     resolve.exports "1.1.0"
     tslib "^2.3.0"
 
-"@nx/js@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/js/-/js-17.3.0-canary.20240109-2360918.tgz#69053ac734b5f9cf809fbf22e0d1c524dd79ed7f"
-  integrity sha512-BcH3YYiUZMGhUp0bOLGc/Xqrxwx8zJe/kf1u6DXiY10xGjItei/X2xb2mNG/UJ6JR6kRHR7JnMOuuOWMLILxWA==
+"@nx/js@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fjs/-/js-18.0.0-katrin.0.tgz#10cfffd690a029d25eb429d70237f0ef006d5024"
+  integrity sha512-1WirbM4dJ8w7lAGO4YxljaY3uqlmFg6Jn/DeEuZEC/kZiG/ypNRkUDzxdImjl1dYJUOPgeu/jWFLWXGFb58T1Q==
   dependencies:
     "@babel/core" "^7.22.9"
     "@babel/plugin-proposal-decorators" "^7.22.7"
@@ -2532,9 +2532,9 @@
     "@babel/preset-env" "^7.22.9"
     "@babel/preset-typescript" "^7.22.5"
     "@babel/runtime" "^7.22.6"
-    "@nrwl/js" "17.3.0-canary.20240109-2360918"
-    "@nx/devkit" "17.3.0-canary.20240109-2360918"
-    "@nx/workspace" "17.3.0-canary.20240109-2360918"
+    "@nrwl/js" "18.0.0-katrin.0"
+    "@nx/devkit" "18.0.0-katrin.0"
+    "@nx/workspace" "18.0.0-katrin.0"
     "@phenomnomnominal/tsquery" "~5.0.1"
     babel-plugin-const-enum "^1.0.1"
     babel-plugin-macros "^2.8.0"
@@ -2556,73 +2556,73 @@
     tsconfig-paths "^4.1.2"
     tslib "^2.3.0"
 
-"@nx/linter@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/linter/-/linter-17.3.0-canary.20240109-2360918.tgz#f1fcb087037d6f0dfd6f9096bedc5121e3294ef4"
-  integrity sha512-RPfje6Y45GPT7oUmNQIxrmRSYj34hNzxuUjLb0btq8lL4aItaN/Y5BVMW9qN8bnwQwPTxYOaqUGHtQQx5SK2TA==
+"@nx/linter@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2flinter/-/linter-18.0.0-katrin.0.tgz#cb7845286a292e7193dde9a429ebf933b02a94af"
+  integrity sha512-oqOa6m0FpRL3zfd1ITvAGPijGg3lSMNjdicB8WrpTNEWYh2be0AvzRRXaLGz6SUNWDb3/uRM7hhtUfMoE0Ulvg==
   dependencies:
-    "@nx/eslint" "17.3.0-canary.20240109-2360918"
+    "@nx/eslint" "18.0.0-katrin.0"
 
-"@nx/nx-darwin-arm64@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/nx-darwin-arm64/-/nx-darwin-arm64-17.3.0-canary.20240109-2360918.tgz#a8cec4797d4e71fc5a4e3a20484ec71fe915dde9"
-  integrity sha512-5OZiOlei6HtMa2BLQc62zDon9wnGKJEOcMwuKEXfwhRlBr26emsHltBFzkxG1xCyLNQ4F5111hIiLiF2X/t9IA==
+"@nx/nx-darwin-arm64@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fnx-darwin-arm64/-/nx-darwin-arm64-18.0.0-katrin.0.tgz#2d63aa17e386124fdc52b91c2bf0ad1e0a5fc529"
+  integrity sha512-hYeJUSnxXSrEB5JkqWodgHYWl/yJhjNAOwJsqhcmBUKyaO2VVBtN3U394xoLQpzV2xu9yJkwQp7CpsvlHsMv0Q==
 
-"@nx/nx-darwin-x64@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/nx-darwin-x64/-/nx-darwin-x64-17.3.0-canary.20240109-2360918.tgz#7eb474b817cf1ef14edbffb6d10734974ac8ac2a"
-  integrity sha512-FlKtKjH8xPi0vgCIoXNLx+6ipVAK/r5eJezsbdA9WCsUdGe3gOKt70VveUNPvqhfxYvDu1RnM8AyHkv7lsbwVA==
+"@nx/nx-darwin-x64@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fnx-darwin-x64/-/nx-darwin-x64-18.0.0-katrin.0.tgz#d724f0ba27455f2a32b143f3e1a283f671b43635"
+  integrity sha512-O6IIyrjqmb2XkrDifXAbg8CZqQSP55bEWqnJSANfqQIDtkYk+754ockFyuu4iNl62xP1iDzCjphpkyzOwms1xQ==
 
-"@nx/nx-freebsd-x64@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/nx-freebsd-x64/-/nx-freebsd-x64-17.3.0-canary.20240109-2360918.tgz#289a1ed247584748144765d3e7c801c2ba72b7a4"
-  integrity sha512-5NsotM2SrPYEntbFJZS6Ep5Lr3hGyFCkS0fr982NkYEInQSKAZaw0OZg3ZvcTjXmfosU2juZEAmnznA12hDTkw==
+"@nx/nx-freebsd-x64@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fnx-freebsd-x64/-/nx-freebsd-x64-18.0.0-katrin.0.tgz#10aadd2664c579ad912a619a7a4b3af16e7298c0"
+  integrity sha512-TasBMjJ/cjV6qU4z52RaKR3svC0+MlgStkygy2NPgF0xiuPyaVFwgXTL6OMJUeTJYMhVBHu2GgLndRAc/P6zQg==
 
-"@nx/nx-linux-arm-gnueabihf@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/nx-linux-arm-gnueabihf/-/nx-linux-arm-gnueabihf-17.3.0-canary.20240109-2360918.tgz#40e94f3795946b46735b026612890792811d23da"
-  integrity sha512-kPSGaK8Wn37tY/hVa8AUWfKQ0aYieLUNW6h2/OsmGk3XnYJ+iAPGpQEYyFw4YKBysmRGVSp6IATfs62cYa6owA==
+"@nx/nx-linux-arm-gnueabihf@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fnx-linux-arm-gnueabihf/-/nx-linux-arm-gnueabihf-18.0.0-katrin.0.tgz#5ef60720b214f4bcafd655188fc2828ad258d97c"
+  integrity sha512-pBagKQYqqs8/vGTQFMcOyPvnmy6yWKZriIYmMbpu2qypo9CT/pTSKBIEo00oQf+pA8dU9vfUJyO7j2N6zh+9/Q==
 
-"@nx/nx-linux-arm64-gnu@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/nx-linux-arm64-gnu/-/nx-linux-arm64-gnu-17.3.0-canary.20240109-2360918.tgz#939c22e8b958afb8e4df7212a8a1a90cbcba9377"
-  integrity sha512-F+sSS26ZNTu8nYgKawpcLtPyJc8/DRg0juHitd5yvl4PDidx0pd+1kbFmFPF+Wcxxl8jF9gJ7+laAFR0aS2sUw==
+"@nx/nx-linux-arm64-gnu@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-gnu/-/nx-linux-arm64-gnu-18.0.0-katrin.0.tgz#5ee292f097fc99f0439d88c766bf1c7eede44eba"
+  integrity sha512-4TUysC3T23fH5mbc5DJampB7MoK78vIUhENVZXlogtSZekv7RSbWSIg/Scjgor35fu/p0MktitmTBgkwQqfRbw==
 
-"@nx/nx-linux-arm64-musl@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/nx-linux-arm64-musl/-/nx-linux-arm64-musl-17.3.0-canary.20240109-2360918.tgz#55f2342baf149f059096b3d02713bac7c1aac6c9"
-  integrity sha512-17LN7l1PxMEp3584xEcvsZRzKkRsCVTylBqVe0dUsnOOuSnqhrZSGeBEnbGrVc9/2GUEEqDT7mPtaUju6f4E/g==
+"@nx/nx-linux-arm64-musl@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-musl/-/nx-linux-arm64-musl-18.0.0-katrin.0.tgz#3c251af3fa9e6699a3795f287815386a62a580ba"
+  integrity sha512-xbehIaTZIP1ONzrxYLdIcn7Xetnd8fXUmWLsj7KgP6LDalpCgW3T0soIvt6xbEPj2WvTu7ADHFyFwJ1qYd6wrQ==
 
-"@nx/nx-linux-x64-gnu@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/nx-linux-x64-gnu/-/nx-linux-x64-gnu-17.3.0-canary.20240109-2360918.tgz#0ee5fc48318a167dfb04dbd10bf0ba0538c4cd40"
-  integrity sha512-x6cqjliTmnaBUDFrtwlmdxUXgV7ASF2WXFJK+g0j6UN+By3WtMZQTvS4ChIN3/jn9wbxdoqU784RvPDv/6yY6g==
+"@nx/nx-linux-x64-gnu@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fnx-linux-x64-gnu/-/nx-linux-x64-gnu-18.0.0-katrin.0.tgz#72a3b48a2c42cd9f0ad9fabdfd6a4a86f2fb5393"
+  integrity sha512-thhg5JH5F9hyjNiQOG4eCbaefSGK+PHq7dNeoLNZiab9ATwiAHwPrQKBejWNtajRbHFgbJlJvO3FSIacEJvOxw==
 
-"@nx/nx-linux-x64-musl@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/nx-linux-x64-musl/-/nx-linux-x64-musl-17.3.0-canary.20240109-2360918.tgz#3d7fadb0a33bf89be544638ea82ec87ea90d30bc"
-  integrity sha512-vl91TwN7cELxG+eRqLPYWFB1gPkA0ODnKJi7FJzp358kJwaVkSLuZTtpe+NTAxgKRCInYEiOC7TYCDA3q1gOHQ==
+"@nx/nx-linux-x64-musl@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fnx-linux-x64-musl/-/nx-linux-x64-musl-18.0.0-katrin.0.tgz#a393fd2d5177ef7f040238aed8916239fed5d80d"
+  integrity sha512-K1h6AL9v8bFaaj9WUVS6awbi30W050g66FYaHTM5Nz8LxVPZkEWf3fwhQV2G7phWq5zBeKkCdsacuXm/wxy8WQ==
 
-"@nx/nx-win32-arm64-msvc@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/nx-win32-arm64-msvc/-/nx-win32-arm64-msvc-17.3.0-canary.20240109-2360918.tgz#2809aee3f79a5fa630306e5af87cc8f601c7e717"
-  integrity sha512-PugQP0gULepWdNi0/KFO3IJO1irvpyZvwOu+F/jQ28eUVBgIBmRvq4MGg/dtmVwOBcl1kd7r7oyTdJNKW7v5IQ==
+"@nx/nx-win32-arm64-msvc@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fnx-win32-arm64-msvc/-/nx-win32-arm64-msvc-18.0.0-katrin.0.tgz#9aedce9f853a8de1168c5f1a6c58cdfcb1353083"
+  integrity sha512-lckhhvlsM3AMQDaDt2YeBo3THgSWAkqfL0tRm7I2ETxpEpTMlLVcDsOjS41Nk7pGpb6r1XpeYUHYxGgIQt1vAg==
 
-"@nx/nx-win32-x64-msvc@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/nx-win32-x64-msvc/-/nx-win32-x64-msvc-17.3.0-canary.20240109-2360918.tgz#982a4107bc178e5ebbe688f34c21f0fa720fe7a0"
-  integrity sha512-Itd4v593IlH4q9sI5b+lXTq0pi1ZaHwqjq24YEf9czkEguEAZR476uQLQ5PMJF1/WnHermvQ2Xv4wE2HdUuZJA==
+"@nx/nx-win32-x64-msvc@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fnx-win32-x64-msvc/-/nx-win32-x64-msvc-18.0.0-katrin.0.tgz#edfb6764206cde87805196abdb9c56e4e04e1fd8"
+  integrity sha512-nFiajafPXcUPmERFWFyu+FcYWTHRLEGDCsClA64TJ66iPl7aS84Yks2k9bWL+jyRqVgMrE9IL5RxPTN3TFdHWQ==
 
-"@nx/react@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/react/-/react-17.3.0-canary.20240109-2360918.tgz#49eebed5c7edb61a57eb60f6ba1a68923a145be8"
-  integrity sha512-6CZNkVjdLdsJTcI8UVXtE6U8SBJK2hCdWd73eGV+iFaK8WLMY43YUQ8MEzrqjgcYTJSyIxYgMVifCoIQxD8XvA==
+"@nx/react@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2freact/-/react-18.0.0-katrin.0.tgz#4c47298cfdce8b5978ca99f2eac36dd1dcd73d21"
+  integrity sha512-rT6zNTKez5AWqXHUrmlqXH1oKPm2B5Boidt6qZh96NwpRe2zH2jZ0jMyZp9y0dbo6R7s3bwvjrplSv+UA97bhQ==
   dependencies:
-    "@nrwl/react" "17.3.0-canary.20240109-2360918"
-    "@nx/devkit" "17.3.0-canary.20240109-2360918"
-    "@nx/eslint" "17.3.0-canary.20240109-2360918"
-    "@nx/js" "17.3.0-canary.20240109-2360918"
-    "@nx/web" "17.3.0-canary.20240109-2360918"
+    "@nrwl/react" "18.0.0-katrin.0"
+    "@nx/devkit" "18.0.0-katrin.0"
+    "@nx/eslint" "18.0.0-katrin.0"
+    "@nx/js" "18.0.0-katrin.0"
+    "@nx/web" "18.0.0-katrin.0"
     "@phenomnomnominal/tsquery" "~5.0.1"
     "@svgr/webpack" "^8.0.1"
     chalk "^4.1.0"
@@ -2630,68 +2630,68 @@
     minimatch "3.0.5"
     tslib "^2.3.0"
 
-"@nx/storybook@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/storybook/-/storybook-17.3.0-canary.20240109-2360918.tgz#253cc6b5551fe9a779d7dd2053f99a5c992b6626"
-  integrity sha512-ImgWJ1XSUwN54DShUyb6NbpBUWZpfTsNZvlBw0Za1aslIo6air16Mcw4DpA9uig//nze091WozWb/3wNwxKQcw==
+"@nx/storybook@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fstorybook/-/storybook-18.0.0-katrin.0.tgz#22585b1cd4d79693ebdddc7df6ced5759ce42eeb"
+  integrity sha512-dvOsMpD97XlDlF0Zo1dzjxA9cngttFzF781B0YvEn2wGD9/deHUcSK4uusqKf/tgy5It7DjGlHGCIqHjSImyOA==
   dependencies:
-    "@nrwl/storybook" "17.3.0-canary.20240109-2360918"
-    "@nx/cypress" "17.3.0-canary.20240109-2360918"
-    "@nx/devkit" "17.3.0-canary.20240109-2360918"
-    "@nx/eslint" "17.3.0-canary.20240109-2360918"
-    "@nx/js" "17.3.0-canary.20240109-2360918"
+    "@nrwl/storybook" "18.0.0-katrin.0"
+    "@nx/cypress" "18.0.0-katrin.0"
+    "@nx/devkit" "18.0.0-katrin.0"
+    "@nx/eslint" "18.0.0-katrin.0"
+    "@nx/js" "18.0.0-katrin.0"
     "@phenomnomnominal/tsquery" "~5.0.1"
     semver "7.5.3"
     tslib "^2.3.0"
 
-"@nx/vite@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/vite/-/vite-17.3.0-canary.20240109-2360918.tgz#4ed0bf06a73040f45a640007e5a66ec65492a4c2"
-  integrity sha512-koZENsOI8qNd0kscQ+kpQjIqmi4jVL9RN32UCBajonXzMqu/StLmTZBXfoUmWxz0+og0E55iL17YqJjL6mTaQQ==
+"@nx/vite@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fvite/-/vite-18.0.0-katrin.0.tgz#9626731dc7e5e158e25ec4e0bc3574950f78471c"
+  integrity sha512-j4EJAfPbRl7k4nXZ9ffiAboVKAlRmV1Q1OKbU8p+jPy62Hni137LOpKjjxnwaK4MyWbSvlxL4tIxV5LRoCeG3Q==
   dependencies:
-    "@nrwl/vite" "17.3.0-canary.20240109-2360918"
-    "@nx/devkit" "17.3.0-canary.20240109-2360918"
-    "@nx/js" "17.3.0-canary.20240109-2360918"
+    "@nrwl/vite" "18.0.0-katrin.0"
+    "@nx/devkit" "18.0.0-katrin.0"
+    "@nx/js" "18.0.0-katrin.0"
     "@phenomnomnominal/tsquery" "~5.0.1"
     "@swc/helpers" "~0.5.0"
     enquirer "~2.3.6"
     tsconfig-paths "^4.1.2"
 
-"@nx/vue@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/vue/-/vue-17.3.0-canary.20240109-2360918.tgz#23d503f376492ad1ac08f5648c4bae6e22870ab7"
-  integrity sha512-C3/7QfL0CAcyoiivuYgsxmvy55UnN6W3iKtimzL28siB9Wp5IEZGcZxYqaLkFeVHAZOkvIl1UTIqpfumGRS3Ew==
+"@nx/vue@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fvue/-/vue-18.0.0-katrin.0.tgz#5a0a04ab11364f3900a8ee95e2bdcad7ae54e54a"
+  integrity sha512-Izv87ekvYeyeiY1VS42Rhk4pQK43nSIHFInTDky2mjKRg7ETkDjlCtU5NSds0eeQv/bO/Mh2Xn5JpnB0qpMbuQ==
   dependencies:
-    "@nx/devkit" "17.3.0-canary.20240109-2360918"
-    "@nx/eslint" "17.3.0-canary.20240109-2360918"
-    "@nx/js" "17.3.0-canary.20240109-2360918"
-    "@nx/vite" "17.3.0-canary.20240109-2360918"
-    "@nx/web" "17.3.0-canary.20240109-2360918"
+    "@nx/devkit" "18.0.0-katrin.0"
+    "@nx/eslint" "18.0.0-katrin.0"
+    "@nx/js" "18.0.0-katrin.0"
+    "@nx/vite" "18.0.0-katrin.0"
+    "@nx/web" "18.0.0-katrin.0"
     minimatch "3.0.5"
     tslib "^2.3.0"
 
-"@nx/web@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/web/-/web-17.3.0-canary.20240109-2360918.tgz#a6622ffedc5b839ed29179fbbb6212f772710aa4"
-  integrity sha512-1zh0VYHi996Cmd0fAeUogdFemGu5V48MnIWpy0OzuVkzxMJqlRDv+dcruGQEA3Z9hv3CLpOHyX3vKH9TjgZEmw==
+"@nx/web@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fweb/-/web-18.0.0-katrin.0.tgz#bbfadc620ec008135451021a343e39eba552b3da"
+  integrity sha512-T7+T/cTare8ASayYBfXXBzvrIF1Yy+jbGdrseMpgBD4DsNPI028uUX3bWIutOsu08aAiptxYe8nAuGxq7SkGfQ==
   dependencies:
-    "@nrwl/web" "17.3.0-canary.20240109-2360918"
-    "@nx/devkit" "17.3.0-canary.20240109-2360918"
-    "@nx/js" "17.3.0-canary.20240109-2360918"
+    "@nrwl/web" "18.0.0-katrin.0"
+    "@nx/devkit" "18.0.0-katrin.0"
+    "@nx/js" "18.0.0-katrin.0"
     chalk "^4.1.0"
     detect-port "^1.5.1"
     http-server "^14.1.0"
     tslib "^2.3.0"
 
-"@nx/webpack@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/webpack/-/webpack-17.3.0-canary.20240109-2360918.tgz#e3a03d102f23c20a83f676e04c8f8488ef2b4b44"
-  integrity sha512-t8MDsTQypT6pNsXDeiR+AmjF0cGgZM0DTidvcX1DqFB8kqvJkfohwcv4a7zKRiecTOMTUxzuCJkPG0VNvn6nRg==
+"@nx/webpack@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fwebpack/-/webpack-18.0.0-katrin.0.tgz#41771a4064140eea930ab866bab6778959edbdcf"
+  integrity sha512-rRobD9GGA+8HA4cHGzXjg5GCAkFCYZIbjuxAScOow/pbBBFF40iFM6v8Fdny5JWQF11zW35e0XSI4f170DEFxA==
   dependencies:
     "@babel/core" "^7.22.9"
-    "@nrwl/webpack" "17.3.0-canary.20240109-2360918"
-    "@nx/devkit" "17.3.0-canary.20240109-2360918"
-    "@nx/js" "17.3.0-canary.20240109-2360918"
+    "@nrwl/webpack" "18.0.0-katrin.0"
+    "@nx/devkit" "18.0.0-katrin.0"
+    "@nx/js" "18.0.0-katrin.0"
     autoprefixer "^10.4.9"
     babel-loader "^9.1.2"
     browserslist "^4.21.4"
@@ -2725,16 +2725,16 @@
     webpack-node-externals "^3.0.0"
     webpack-subresource-integrity "^5.1.0"
 
-"@nx/workspace@17.3.0-canary.20240109-2360918":
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/@nx/workspace/-/workspace-17.3.0-canary.20240109-2360918.tgz#8d7459faba955d81ba6f64e6e892bd4aab688cd9"
-  integrity sha512-OhqLYm/gMQPLq40l2LyxUqI+D9+Nbhe0o6Wj068dlPvp+Wvzpp8/HdfGgoypCBs0bomEYiOHet06ShXk2r/K9w==
+"@nx/workspace@18.0.0-katrin.0":
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/@nx%2fworkspace/-/workspace-18.0.0-katrin.0.tgz#8e5991fff0eb726bc630cde614921552a5832647"
+  integrity sha512-t9OQhNCqkhkGt0wvY8zj83U/YVXyxHGbRj1FQHG3ifWIGGEgZkgZgxYEjdSn5DG9NuQ03yo1AF6aV9iR1Bvs7Q==
   dependencies:
-    "@nrwl/workspace" "17.3.0-canary.20240109-2360918"
-    "@nx/devkit" "17.3.0-canary.20240109-2360918"
+    "@nrwl/workspace" "18.0.0-katrin.0"
+    "@nx/devkit" "18.0.0-katrin.0"
     chalk "^4.1.0"
     enquirer "~2.3.6"
-    nx "17.3.0-canary.20240109-2360918"
+    nx "18.0.0-katrin.0"
     tslib "^2.3.0"
     yargs-parser "21.1.1"
 
@@ -9987,12 +9987,12 @@ nwsapi@^2.2.2, nwsapi@^2.2.4:
   resolved "https://registry.yarnpkg.com/nwsapi/-/nwsapi-2.2.7.tgz#738e0707d3128cb750dddcfe90e4610482df0f30"
   integrity sha512-ub5E4+FBPKwAZx0UwIQOjYWGHTEq5sPqHQNRN8Z9e4A7u3Tj1weLJsL59yH9vmvqEtBHaOmT6cYQKIZOxp35FQ==
 
-nx@17.3.0-canary.20240109-2360918:
-  version "17.3.0-canary.20240109-2360918"
-  resolved "https://registry.yarnpkg.com/nx/-/nx-17.3.0-canary.20240109-2360918.tgz#46ca7b3b4b33552c97778eec61ae2fa0c8f14726"
-  integrity sha512-LTZipm0c7xqPPsuUOOTtI6p9WzLxHcpWxZmV2RnGqDsJvmUHu/rsBALQ9asFvXBLJDj2y3ZOoL++63UOSLbLaQ==
+nx@18.0.0-katrin.0:
+  version "18.0.0-katrin.0"
+  resolved "http://localhost:4873/nx/-/nx-18.0.0-katrin.0.tgz#ba26b6fcc2e31ce1fed3eeaa157f7804c1a283b4"
+  integrity sha512-vw5h7pLDZd8DheORx9nlWTBQNMomud8ES1y3VcBwVW75iRAmnyVxsnFqOOcexT3WmdVR5b5QwjxdqLJfnMLLLg==
   dependencies:
-    "@nrwl/tao" "17.3.0-canary.20240109-2360918"
+    "@nrwl/tao" "18.0.0-katrin.0"
     "@yarnpkg/lockfile" "^1.1.0"
     "@yarnpkg/parsers" "3.0.0-rc.46"
     "@zkochan/js-yaml" "0.0.6"
@@ -10027,16 +10027,16 @@ nx@17.3.0-canary.20240109-2360918:
     yargs "^17.6.2"
     yargs-parser "21.1.1"
   optionalDependencies:
-    "@nx/nx-darwin-arm64" "17.3.0-canary.20240109-2360918"
-    "@nx/nx-darwin-x64" "17.3.0-canary.20240109-2360918"
-    "@nx/nx-freebsd-x64" "17.3.0-canary.20240109-2360918"
-    "@nx/nx-linux-arm-gnueabihf" "17.3.0-canary.20240109-2360918"
-    "@nx/nx-linux-arm64-gnu" "17.3.0-canary.20240109-2360918"
-    "@nx/nx-linux-arm64-musl" "17.3.0-canary.20240109-2360918"
-    "@nx/nx-linux-x64-gnu" "17.3.0-canary.20240109-2360918"
-    "@nx/nx-linux-x64-musl" "17.3.0-canary.20240109-2360918"
-    "@nx/nx-win32-arm64-msvc" "17.3.0-canary.20240109-2360918"
-    "@nx/nx-win32-x64-msvc" "17.3.0-canary.20240109-2360918"
+    "@nx/nx-darwin-arm64" "18.0.0-katrin.0"
+    "@nx/nx-darwin-x64" "18.0.0-katrin.0"
+    "@nx/nx-freebsd-x64" "18.0.0-katrin.0"
+    "@nx/nx-linux-arm-gnueabihf" "18.0.0-katrin.0"
+    "@nx/nx-linux-arm64-gnu" "18.0.0-katrin.0"
+    "@nx/nx-linux-arm64-musl" "18.0.0-katrin.0"
+    "@nx/nx-linux-x64-gnu" "18.0.0-katrin.0"
+    "@nx/nx-linux-x64-musl" "18.0.0-katrin.0"
+    "@nx/nx-win32-arm64-msvc" "18.0.0-katrin.0"
+    "@nx/nx-win32-x64-msvc" "18.0.0-katrin.0"
 
 object-assign@^4, object-assign@^4.1.1:
   version "4.1.1"
