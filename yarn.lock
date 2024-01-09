@@ -2657,6 +2657,19 @@
     enquirer "~2.3.6"
     tsconfig-paths "^4.1.2"
 
+"@nx/vue@17.3.0-canary.20240109-2360918":
+  version "17.3.0-canary.20240109-2360918"
+  resolved "https://registry.yarnpkg.com/@nx/vue/-/vue-17.3.0-canary.20240109-2360918.tgz#23d503f376492ad1ac08f5648c4bae6e22870ab7"
+  integrity sha512-C3/7QfL0CAcyoiivuYgsxmvy55UnN6W3iKtimzL28siB9Wp5IEZGcZxYqaLkFeVHAZOkvIl1UTIqpfumGRS3Ew==
+  dependencies:
+    "@nx/devkit" "17.3.0-canary.20240109-2360918"
+    "@nx/eslint" "17.3.0-canary.20240109-2360918"
+    "@nx/js" "17.3.0-canary.20240109-2360918"
+    "@nx/vite" "17.3.0-canary.20240109-2360918"
+    "@nx/web" "17.3.0-canary.20240109-2360918"
+    minimatch "3.0.5"
+    tslib "^2.3.0"
+
 "@nx/web@17.3.0-canary.20240109-2360918":
   version "17.3.0-canary.20240109-2360918"
   resolved "https://registry.yarnpkg.com/@nx/web/-/web-17.3.0-canary.20240109-2360918.tgz#a6622ffedc5b839ed29179fbbb6212f772710aa4"
