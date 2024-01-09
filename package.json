@@ -18,6 +18,7 @@
     "react-dom": "18.2.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
+    "vue": "^3.3.4",
     "zone.js": "~0.14.0"
   },
   "devDependencies": {
@@ -35,13 +36,13 @@
     "@nx/angular": "17.3.0-canary.20240109-2360918",
     "@nx/cypress": "17.3.0-canary.20240109-2360918",
     "@nx/eslint": "17.3.0-canary.20240109-2360918",
-    "@nx/vue": "17.3.0-canary.20240109-2360918",
     "@nx/eslint-plugin": "17.3.0-canary.20240109-2360918",
     "@nx/jest": "17.3.0-canary.20240109-2360918",
     "@nx/js": "17.3.0-canary.20240109-2360918",
     "@nx/react": "17.3.0-canary.20240109-2360918",
     "@nx/storybook": "17.3.0-canary.20240109-2360918",
     "@nx/vite": "17.3.0-canary.20240109-2360918",
+    "@nx/vue": "17.3.0-canary.20240109-2360918",
     "@nx/web": "17.3.0-canary.20240109-2360918",
     "@nx/webpack": "17.3.0-canary.20240109-2360918",
     "@nx/workspace": "17.3.0-canary.20240109-2360918",
@@ -59,8 +60,13 @@
     "@typescript-eslint/eslint-plugin": "^6.13.2",
     "@typescript-eslint/parser": "^6.13.2",
     "@vitejs/plugin-react": "^4.2.0",
+    "@vitejs/plugin-vue": "^4.5.0",
     "@vitest/coverage-v8": "^1.0.4",
     "@vitest/ui": "^1.0.4",
+    "@vue/eslint-config-prettier": "7.1.0",
+    "@vue/eslint-config-typescript": "^11.0.3",
+    "@vue/test-utils": "^2.4.1",
+    "@vue/tsconfig": "^0.4.0",
     "babel-jest": "^29.4.1",
     "cypress": "^13.0.0",
     "eslint": "~8.48.0",
@@ -70,6 +76,7 @@
     "eslint-plugin-jsx-a11y": "6.7.1",
     "eslint-plugin-react": "7.32.2",
     "eslint-plugin-react-hooks": "4.6.0",
+    "eslint-plugin-vue": "^9.16.1",
     "jest": "^29.4.1",
     "jest-environment-jsdom": "^29.4.1",
     "jest-preset-angular": "~13.1.4",
@@ -84,6 +91,7 @@
     "url-loader": "^4.1.1",
     "vite": "^5.0.0",
     "vitest": "^1.0.4",
+    "vue-tsc": "^1.8.8",
     "webpack-cli": "^5.1.4"
   }
 }
