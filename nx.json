@@ -25,6 +25,15 @@
           "codeCoverage": true
         }
       }
+    },
+    "build-storybook": {
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        "{projectRoot}/.storybook/**/*",
+        "{projectRoot}/tsconfig.storybook.json"
+      ]
     }
   },
   "namedInputs": {
@@ -40,7 +49,10 @@
       "!{projectRoot}/test-setup.[jt]s",
       "!{projectRoot}/cypress/**/*",
       "!{projectRoot}/**/*.cy.[jt]s?(x)",
-      "!{projectRoot}/cypress.config.[jt]s"
+      "!{projectRoot}/cypress.config.[jt]s",
+      "!{projectRoot}/**/*.stories.@(js|jsx|ts|tsx|mdx)",
+      "!{projectRoot}/.storybook/**/*",
+      "!{projectRoot}/tsconfig.storybook.json"
     ],
     "sharedGlobals": []
   },
@@ -105,7 +117,23 @@
         "serveTargetName": "serve",
         "previewTargetName": "preview"
       }
+    },
+    {
+      "plugin": "@nx/storybook/plugin",
+      "options": {
+        "buildStorybookTargetName": "build-storybook",
+        "serveStorybookTargetName": "storybook",
+        "testStorybookTargetName": "test-storybook",
+        "staticStorybookTargetName": "static-storybook"
+      }
     }
   ],
-  "nxCloudAccessToken": "ZTcyYzBhNzktMjY1OC00ZWVmLTkwZTEtZTVkNThlYTI3YmMwfHJlYWQtd3JpdGU="
+  "nxCloudAccessToken": "ZTcyYzBhNzktMjY1OC00ZWVmLTkwZTEtZTVkNThlYTI3YmMwfHJlYWQtd3JpdGU=",
+  "tasksRunnerOptions": {
+    "default": {
+      "options": {
+        "cacheableOperations": ["build-storybook"]
+      }
+    }
+  }
 }
